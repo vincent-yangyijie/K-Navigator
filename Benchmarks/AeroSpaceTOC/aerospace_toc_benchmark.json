@@ -1,0 +1,3318 @@
+[
+  {
+    "title": "多尺度同化SWOT图像的方法、系统、设备和存储介质",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "大幅度提升了区域海洋数值模式对海洋中小尺度动力结构的模拟能力，提高了同化效果，有效解决了现有同化策略..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN117390897B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN117390897B",
+    "uuid": "64f83aa3-d49b-43f0-b9a5-7a8ab945678e",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "RBC带载复合母线体制卫星加断电测试方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "有效防止了RBC带载时的母线欠压，降低了蓄电池继电器通断时的触点粘连风险，提升了复合母线体制卫星的测..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN114509624B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN114509624B",
+    "uuid": "51ed8a0f-f7d2-4148-baa3-5636a81e2cff",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "高温高压微动疲劳试验机",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了在高温高压环境下法向力恒定加载，提高了载荷控制和测量精度，显著提高了微动疲劳试验的整体试验精度"
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN106483020B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN106483020B",
+    "uuid": "5c944115-3ccb-41af-b159-dc495c6e9ee2",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "电推进卫星的轨道机动方向估计方法、装置和存储介质",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "有效避免了推力方向与预估方向的偏差，提高了卫星轨道机动精度，增强了推进器系统的控制精度"
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN116674768B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN116674768B",
+    "uuid": "0cbd785d-e151-4313-a5ef-e0d26b6ea7a5",
+    "query": "Satellite Propulsion Systems"
+  },
+  {
+    "title": "一种姿态传感器动态特性测试装置及方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了低成本、准确的姿态传感器动态特性测试，能够在复杂场景下有效验证传感器的动态跟踪特性，特别适用于..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN117433563A",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN117433563A",
+    "uuid": "f164e474-d29c-4ea3-84b2-d6a89a7b0ee9",
+    "query": "Satellite Attitude Control"
+  },
+  {
+    "title": "基于气象卫星遥感的大高差RTK对流层延迟改正方法及装置",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了大范围、高精度的对流层延迟改正，降低了建设成本和数据处理复杂度，无需地面实测站点，具有良好的时..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN119126155B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN119126155B",
+    "uuid": "66fcb4e3-d653-46a6-83e1-439009908306",
+    "query": "Satellite Remote Sensing Technology"
+  },
+  {
+    "title": "一种超低轨卫星轨道自主精确维持方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "无需加速度计即可获得米级精度的平半长轴控制，动态不确定大气密度变化下的轨控推力大小自主调节，实现了超..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN114771873B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN114771873B",
+    "uuid": "ef9d2003-a7e3-4b55-a624-64923b35d9f6",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "Power storage system and power storage device",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "该解决方案通过允许在不同的设备规范上有效充电,可以提高功率进料和存储系统的多功能性,减少功耗并提高电..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:US20250118973A1",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/US20250118973A1",
+    "uuid": "a551655f-cf6d-4cfe-bb5d-cd223c89710a",
+    "query": "Satellite Orbital Tracking and Control"
+  },
+  {
+    "title": "一种姿热耦合优化设计系统及方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "在目标温度场条件下，通过逆设计惯性定向姿态的太阳矢量，控制整星姿态和温度同时满足要求，减少姿态正向输..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN114417500B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN114417500B",
+    "uuid": "06a2c9d0-7df2-42b2-a058-373a7cfc1ee9",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "正极活性材料组合物、正极极片、电池及用电设备",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "显著提高了锂离子电池的能量密度和循环稳定性，增强了电池的续航能力和电化学性能"
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN117080415B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN117080415B",
+    "uuid": "f5229016-ea1b-4591-be17-8dc26685501e",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "海面目标与背景环境极化雷达散射仿真方法及装置",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "提高了导引头对海面目标的识别和定位精度，增强了导弹制导的准确性，能够在复杂海况下有效分离目标信号和海..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN118938156A",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN118938156A",
+    "uuid": "6f139eb7-7f46-4e59-8ab5-8884cf74f9da",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "航天器载荷数据分发装置及方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了载荷数据的准确用户识别和分发，确保了信息传输的高正确性、高实时性与高可靠性，解决了现有技术中用..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN114598378B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN114598378B",
+    "uuid": "0128b2f0-27f1-43f6-9aab-ead07de69205",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种卫星移动通信系统高动态终端及切换方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了高动态卫星终端的接入，降低了系统运营复杂度，提高了资源利用率，确保了高动态平台的通信稳定性和效..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN116015411B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN116015411B",
+    "uuid": "ecc8b2fa-2955-4d9c-a4a3-8493fd04eea6",
+    "query": "Satellite Communication Systems"
+  },
+  {
+    "title": "一种异质合金厚壁管件高强精密径向组焊方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了铜/钢异质合金厚壁管件的高强度、低成本焊接，避免了焊接缺陷和能量浪费，确保了焊接质量和精度"
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN113814552B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN113814552B",
+    "uuid": "c0d22e1c-bc91-4f81-9940-07de47188efe",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "基于超级电容的储能设备及方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "提高了储能装置的安全性、可靠性和使用寿命，确保在充电和放电过程中不损坏电容模组，并在维修时确保安全可..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN116885805A",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN116885805A",
+    "uuid": "a7fef932-f1ce-4fe2-a8e7-e9d417315ffd",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种面向全寿命卫星编队及轨道控制全流程仿真验证方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "提高了仿真验证的系统性和工程实际符合性，提升了仿真置信度，兼顾时间效率与仿真精度，能够在单台计算机运..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN111624897B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN111624897B",
+    "uuid": "075dd1d1-60eb-498c-88c9-d47327f85fdb",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种卫星智能化开放式综合电子系统",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了系统的适应性和扩展性，提供了统一的电子工程环境，允许第三方开发软硬件，支持用户在轨安装和卸载应..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN108667507B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN108667507B",
+    "uuid": "bb310621-a25b-4c18-afbe-cf52b718c58f",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种遥感卫星仿真实现方法及系统",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了对可移动波束天线各种灵活指向工作方式的仿真，能够更准确地分析卫星链路技术特性，得到的仿真结果更..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN114676554B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN114676554B",
+    "uuid": "5afc9d76-8b7d-4b18-b219-8fc628d2ceec",
+    "query": "Satellite Remote Sensing Technology"
+  },
+  {
+    "title": "基于快速稀疏贝叶斯的宽带雷达高速目标的相参积累方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "提高了HRRP重构及高阶相位补偿的效率，降低了计算复杂度，实现了高速目标的快速相参积累和自聚焦，满足..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN116540203B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN116540203B",
+    "uuid": "b2061ff6-c636-49cc-b521-cbe5d7cb590c",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "양극 활물질과 그 제조 방법, 이를 포함하는 양극, 및 리튬 이차 전지",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "该解决方案可提高初始充电和放电能力,效率和高温寿命特征,同​​时最大程度地生成气体,从而提高锂二级电..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:KR102767270B1",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/KR102767270B1",
+    "uuid": "38d646ef-0359-4f6b-85c0-382ed8686b5e",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种利用双阵列天线进行微小卫星相对姿态确定的方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了在不增加航天器体积的情况下，低复杂度地进行微小卫星相对姿态确定，减轻了微小卫星负载，提高了空间..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN107270909B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN107270909B",
+    "uuid": "eda7a9a3-dd66-42c9-9deb-cb22ff9d0c06",
+    "query": "Satellite Antenna Technology"
+  },
+  {
+    "title": "基于离散高阶全驱系统的组合卫星模拟器控制方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了在实验环境下对组合卫星模拟器的有效运动控制，提供了简单有效的控制器设计和参数求解过程，具备工程..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN114253136B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN114253136B",
+    "uuid": "4c93798d-4ea5-454e-839c-4d88d9020d95",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种高精度卫星导航模拟器伪码生成方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "提高了伪码生成的精度，能够满足大动态应用环境的精度要求，解决了传统码NCO生成伪码精度低的问题"
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN108828631B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN108828631B",
+    "uuid": "3fb8bff6-27de-4851-8088-ad7bee075cb6",
+    "query": "Satellite Navigation and Positioning Technology"
+  },
+  {
+    "title": "一种高精度初始对准方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了高精度的初始对准，提升了低精度惯性导航系统的初始对准精度，同时具备快速收敛和实用性强的优点"
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN119901314A",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN119901314A",
+    "uuid": "4ef2d19b-854a-4788-8be1-9af43349d290",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "用于复杂场景形貌测量的相位解包裹方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了对复杂场景形貌测量的高精度相位解包裹，提高了图像质量，降低了后处理的需求，且无需复杂计算，显著..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN115311561B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN115311561B",
+    "uuid": "047e7fa0-cd60-4f43-b410-78887c8a722d",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "基于矩阵等价转换的光纤陀螺误差校准方法及系统",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "提高了光纤陀螺误差校准的准确率，满足不同应用场合对安装矩阵形式的不同要求，增强了导航系统的精度和稳定..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN116026370B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN116026370B",
+    "uuid": "51a77793-5ca0-4c96-a90a-a7f3a2d1fc82",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "结合相位处理机制与LSTM网络模型的海杂波抑制方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "提高了海杂波预测精度和抑制效果，增强了雷达对海面目标的检测性能，提升了目标成像质量"
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN117310641A",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN117310641A",
+    "uuid": "67511c98-fac8-4a6f-bcea-de72328e990d",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种适用于化学-冷气联合推进系统的热控系统设计方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "降低了热控系统对航天器总电能的依赖，减少了推进器设计的高成本和长周期问题，节约电量40%，降低化学推..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN118709308B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN118709308B",
+    "uuid": "829d10e0-490e-4925-b556-a48e1641e44d",
+    "query": "Satellite Propulsion Systems"
+  },
+  {
+    "title": "一种数字信号处理电路辐照测试系统和辐照测试方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了全自动测试，提高了测试效率和资源利用率，减少了人员成本，能够有效分析DSP芯片的运行状态，排除..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN114966252B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN114966252B",
+    "uuid": "49cbfcd6-c73f-431b-bca6-4828dfdd0117",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种采用位置速度双回路的卫星控制方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了在惯性空间中将星体的惯性角速度和角度控制为零，保证了系统的快速稳定性，并通过Ⅱ-Ⅰ-Ⅱ型校正系..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN106843256B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN106843256B",
+    "uuid": "40863741-a4dd-4c19-9ff3-c04e8fb8bf4b",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "用于卫星地面飞控任务的智能辅助决策方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "提高了飞控工作的效率和准确率，能够应对复杂任务和未知情况，提供高度可靠的决策指令，降低了操作人员的劳..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN109189089B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN109189089B",
+    "uuid": "14a20111-a779-4c0f-843c-b94c93b860fc",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "基于轨道预测的星间链路信号捕获过程的仿真方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "提高了星间链路信号捕获过程的仿真精准性，准确得到中、低轨目标的捕获时间和捕获概率，提供了实际参考价值..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN109543292B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN109543292B",
+    "uuid": "b2a95f40-f2e3-4426-8c8c-e92b2a9d9b12",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "卫星间切换路径的确定方法、装置、终端及存储介质",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "有效减少了切换时延，降低了业务中断风险，提高了用户的通信体验，解决了因仅考虑卫星间切换次数导致的推荐..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN111147120B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN111147120B",
+    "uuid": "e21bc245-95e2-4bd5-8b47-5e6b56783bc8",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "축전 장치의 제어 시스템, 축전 시스템, 및 전기 기기",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "该系统有效地抑制了降低能力,提高可靠性和安全性,并通过允许对电源存储设备进行精确控制,确保均匀充电并..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:KR102579225B1",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/KR102579225B1",
+    "uuid": "256629a8-041e-41d3-836a-d62416a50d1a",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种低轨预警卫星任务规划模型",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "提高了目标跟踪信息的精度和预警任务的效率，能够适时调整任务，满足动态性需求，实现高精度的多目标跟踪和..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN116722906B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN116722906B",
+    "uuid": "9bb2d8b6-e1e6-4c43-aeb1-9a78c238b6d6",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "用于确定低轨道卫星通信系统位置区的方法、设备和存储装置",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了在低轨卫星场景下小区与位置区的动态匹配，降低了信令负荷和耗电，适应网络优化需求，成本较低"
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN109660293B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN109660293B",
+    "uuid": "98a9c750-c732-41bd-9133-7703b70168b8",
+    "query": "Satellite Communication Systems"
+  },
+  {
+    "title": "一种固态电解质包覆改性正极材料的工艺方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "显著提高了正极材料的电子导电性、循环稳定性和倍率性能，提高了锂离子电池的安全性和稳定性，并降低了生产..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN119447256A",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN119447256A",
+    "uuid": "3177ab96-1fdb-4b65-9906-3418578228bc",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "卫星结构有限元模型单机批量建模方法及系统",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "提高了卫星结构有限元模型单机建模的自动化程度和准确度，减少了手动统计的效率低和出错问题，提升了有限元..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN117010094B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN117010094B",
+    "uuid": "59563564-e0d3-4637-bfdc-3b84cf663ec8",
+    "query": "Satellite Structure and Thermal Control"
+  },
+  {
+    "title": "一种基于马赛克拼接的分布式可重构卫星系统组织方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了分布式卫星系统的多样化能力组合，节省卫星资源，提高任务效率和系统可用性，确保全局最优化，增强了..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN113220425B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN113220425B",
+    "uuid": "9be30dab-21d8-4d7c-9d56-8ad86e12812a",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "基于前指角转镜空间扫描的星间激光链路捕获装置及方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "通过快速空间扫描技术，能够快速建立和维持星间激光链路，降低了时间成本和推进剂消耗成本，充分利用了星上..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN119316041B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN119316041B",
+    "uuid": "3041b9a6-da81-49e1-a566-4d805d996e8e",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "虚拟卫星测控仿真方法及装置",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "摆脱对真实卫星和地面资源的依赖，提升软件研发水平和产品质量，节约成本，提高测试质量和可靠性"
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN115220367B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN115220367B",
+    "uuid": "9926ebb6-3acb-440c-ab53-9460fbe990a6",
+    "query": "Satellite Orbital Tracking and Control"
+  },
+  {
+    "title": "高速航天器的北斗短报文入站信号动态补偿方法和装置",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "使得高速航天器的短报文信号能够正常入站，避免了多普勒搜索范围限制，增强了通信终端的实用性，不依赖外部..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN115051745B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN115051745B",
+    "uuid": "e8ffbd10-36c5-40f6-894c-267a487fda90",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "连续小推力机动卫星的无迹批处理定轨方法和系统",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "提高了定轨精度，减少了单点观测误差的影响，能够在推力加速度未知、观测数据稀疏情况下准确估计卫星的轨道..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN120180603B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN120180603B",
+    "uuid": "f879daa3-50f6-43b9-9deb-c4f4b8dcfc08",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "面向大规模LEO卫星网络的基于负载均衡的路由方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "提高了卫星网络的路由性能，减少了数据转发压力，降低了计算和通信资源消耗，实现了更快的反应速度和更高的..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN114039654B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN114039654B",
+    "uuid": "4b0c996a-d4dd-4a49-9b47-8095dfa9609c",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种基于效能的大型电磁弹射装置的评价方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "有效提取系统评估的主要指标，降低输入向量维度，提高效能预测准确率，简化计算时间，并进行投资效率分析，..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN112907032B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN112907032B",
+    "uuid": "a2a30b51-7580-402d-94db-038091a5b41b",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种基于磁悬浮原理的原位激光增材修复方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了在不拆卸零件的情况下进行原位修复，提高了增材修复的适应性和效率，减少了修复时间，适用于紧急情况..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN113102771B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN113102771B",
+    "uuid": "c483df87-ba8c-4409-b1ef-6edfc146ee0b",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "Power management unit battery switchover topology",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "使热电池能够支持超过 10 分钟的任务持续时间,防止热失控,并允许灵活激活附加电池,确保顺序射击期间..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:WO2024210986A1",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/WO2024210986A1",
+    "uuid": "788f715f-9bc5-4690-b436-813d2aeefa29",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "基于单台相位失真的卫星导航天线的定向方法及装置",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了低成本卫星导航天线的定向功能，克服了相位失真的不利因素，放宽了对天线质量的要求，使得只装备有一..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN116953746B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN116953746B",
+    "uuid": "e45d18c9-aeaa-4f4f-a2a7-57a59da7222b",
+    "query": "Satellite Navigation and Positioning Technology"
+  },
+  {
+    "title": "用于目标在回路大功率激光合成发射的装置",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了对远距离无人机的高精度跟踪和高效毁伤，克服了单纯功率合成带来的亮度降低问题，最大化了合成发射的..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN117663909A",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN117663909A",
+    "uuid": "91caf5c2-d8a4-407b-a1e8-4dedd25a750d",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种光学卫星遥感影像在轨实时流式处理方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "通过实时判断影像数据的重要性和处理单元负载，实现了影像数据的高效压缩和分析，缩短了数据处理时间，提高..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN113283412B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN113283412B",
+    "uuid": "9c5cc2ef-886b-4904-a927-78e8cb107db8",
+    "query": "Satellite Remote Sensing Technology"
+  },
+  {
+    "title": "商业微小卫星装星产品正弦振动试验设计方法和系统",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "降低了因试验模拟条件不准确导致的过试验风险，实现了装星产品正弦振动试验的合理化和规范化，缩短了研制周..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN112836351B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN112836351B",
+    "uuid": "91af5006-bd1c-44c4-b02e-04c1bcad215b",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种惯导设备方位基准棱镜校准系统及校准方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "该系统简化了校准过程，提高了对准精度，降低了人力和时间成本，适用于多种产品的方位基准校准，缩短了产品..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN119666029A",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN119666029A",
+    "uuid": "76c84d66-7369-4e25-9c40-d8c25bb36400",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种卫星通信网络组网规划方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "提高了卫星通信网组网规划的通用性和效率，降低了复杂度，实现了卫星资源与通信网的自动关联分析"
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN108282218B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN108282218B",
+    "uuid": "b7961c3a-d73d-459b-9f60-a8d8760259cb",
+    "query": "Satellite Communication Systems"
+  },
+  {
+    "title": "Aircraft battery charging system and method",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "这种方法通过最大限度地减少电压差并防止设备损坏,确保飞机电池组的安全高效充电,同时最大限度地提高飞机..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:EP4415214A2",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/EP4415214A2",
+    "uuid": "d109c0c9-89c3-4eb9-99f1-1818a036c45c",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种卫星轨道机动预报装置和卫星轨道机动预报方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "提高了卫星轨道预报的精度，减少了轨道机动策略优化中的计算误差，增强了在轨控策略优化、碰撞规避策略制定..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN119442706B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN119442706B",
+    "uuid": "822d3be4-1a26-4fd4-a080-a444dcde6c41",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种电池仓及换电系统",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "有效避免了外部设备与换电设备的碰撞，提高了换电设备的安全性，并通过精确的停放位置和校准功能，减少了设..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:WO2023185863A1",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/WO2023185863A1",
+    "uuid": "51ff5a34-7e2a-4c0a-aef1-2229c3c89444",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "发动机工作时干扰力矩实时估计方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了在高轨道卫星转移段和深空探测飞行器轨道控制过程中，快速准确地估计干扰力矩，降低了姿态失稳风险，..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN107792396B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN107792396B",
+    "uuid": "06ce4e37-838e-4fa2-94e2-236fdffcfaee",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "光学成像卫星原始数据实时目标检测切片获取方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了不同卫星不同光学成像载荷的实时快速目标检测处理，提升了目标切片获取的生产效率，满足了用户的时效..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN110866452B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN110866452B",
+    "uuid": "6ece0f8a-f329-4744-aba1-bac9d5af64e0",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "양극 활물질과 이를 포함하는 양극 및 리튬 이차 전지",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "该解决方案可在高压条件下实现高初始充电和放电能力,效率和寿命特征,同​​时降低生产成本并最大程度地减..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:KR1020250020187A",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/KR1020250020187A",
+    "uuid": "4641e616-d7d3-401d-b38c-04915cddaf41",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "卫星网络路由更新方法以及装置",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了更新卫星网络路由，提升通信性能，提高路由效率，从而提高卫星网络的传输效率，解决了流量分配不均匀..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN115913332B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN115913332B",
+    "uuid": "99361768-689d-4476-b909-7ca41e4078e3",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种卫星集群拓扑结构连通性保持控制方法及系统",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "减少了卫星集群长期相伴飞行的控制燃料消耗，保证了拓扑结构连通性和距离有界性，避免了星间距离过小导致的..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN114553292B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN114553292B",
+    "uuid": "7ba740f2-415d-4e88-9a9b-f6e7e8278595",
+    "query": "Satellite Structure and Thermal Control"
+  },
+  {
+    "title": "一种基于序列凸优化和模型预测控制的卫星集群重构控制方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "提高了控制精度和鲁棒性，避免了现有方法的可扩展性差，减少了任务执行过程中的误差，能够在大规模卫星集群..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN115509248B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN115509248B",
+    "uuid": "6a45c14c-82cf-43d7-b965-bec0423c440a",
+    "query": "Satellite Orbital Tracking and Control"
+  },
+  {
+    "title": "卫星综合电子系统",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "提高了分系统间和分系统内的数据传输速率，增强了硬件健壮性，提升了卫星的自主健康管理能力，实现了整星数..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN111917453B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN111917453B",
+    "uuid": "037a55f1-dc80-4211-b230-e3f9063011c8",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种多应力综合下的卫星电子产品寿命预测方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "该方法能够在工程实用性和精度保证下，提高卫星电子产品寿命预测的效率，节省寿命评估时间和成本，提供重要..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN109614684B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN109614684B",
+    "uuid": "811f661b-5f80-455a-b091-609817fe9d81",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "航天器空间环境故障模拟系统",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了对航天器CAN总线硬件故障的模拟，检验了航天器的软硬件健壮性设计，测试了网络的稳定性和可靠性，..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN112256000B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN112256000B",
+    "uuid": "b97c3a9b-76ba-4fe8-a12c-81173bbc6f27",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种基于容器云的卫星星座仿真架构和网络仿真系统",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "在保证仿真结果真实性的前提下，通过硬件横向扩容提升仿真规模和效率，支持复杂网络拓扑的自定义配置和敏捷..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN112800620B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN112800620B",
+    "uuid": "6bb1d4b8-27c7-45d9-8e67-90cf22a26911",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种分布式卫星系统动态任务规划方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [
+        {
+          "Specific Problem Areas": [
+            "传统的集中式卫星任务规划依赖稳定环境和高昂通信成本，且鲁棒性差",
+            "分布式任务规划在非理想通信状态下通信开销大，任务完成度低"
+          ]
+        }
+      ],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "提高了系统鲁棒性，节省资源和时间，降低了通信开销，增强了任务完成度，适应非理想的通信状态"
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN111124637B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN111124637B",
+    "uuid": "4f986036-3524-49b7-aa2e-0eec2d3412d6",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种基于PXI总线的卫星载荷通用地面检测板卡",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了以往需要多块板卡才能完成的地检功能的实现，降低了板卡成本和开发难度，提高了板卡的普适性和开放性..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN110031700B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN110031700B",
+    "uuid": "3911f065-2a1b-4e64-8d0c-6c05818530a6",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "多阴极协同进给双流道构件电解加工装置和方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了双流道构件叶片型面、内外流道的同时加工，提高了加工效率和精度，适应不同类型构件的加工需求，并通..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN116100096B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN116100096B",
+    "uuid": "3a599c2b-bd30-4cf5-8e1b-4fb1816893bc",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种多卫星无碰撞释放的堆叠方式及释放方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "减少或消除分配器质量，确保发射期间的结构刚度和强度，实现多颗卫星在特定初角速度下一次性完全分散，提高..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN114692307B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN114692307B",
+    "uuid": "b84a9b32-533a-4944-be45-06235570f0ae",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种基于协同优化策略的并行可配置智能优化方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "有效提高了多学科设计优化问题的计算效率和收敛性能，提升了复杂产品的设计质量和设计效率，完善了复杂产品..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN112100909B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN112100909B",
+    "uuid": "0f5fdf8e-7d1c-4ddc-9794-5eb133a29cec",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种基于李群理论的无近似欧拉角误差模型",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "在大失准角条件下，基于李群理论的无近似欧拉角误差模型能够提高导航精度和稳定性，尤其适用于INS/DV..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN117053834A",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN117053834A",
+    "uuid": "29a4ade8-2989-4c91-a805-086f21ad9a32",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "负极活性材料、负极极片、锂离子电池及用电装置",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "有效抑制析锂和锂枝晶的生长，提高锂离子电池的容量保持率和循环性能，降低包覆层对能量密度的影响"
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN119230768A",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN119230768A",
+    "uuid": "b4c0dc02-571c-4111-ad8d-d8a817f21e9b",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种弱模型依赖的高超声速变形飞行器智能控制方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了对高超声速变形飞行器的稳定控制，降低了数据传输压力和执行机构频繁动作的问题，增强了控制系统的在..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN118707858B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN118707858B",
+    "uuid": "3f2322f4-8c1f-42c6-a098-c33f93447641",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "复杂航天器热控系统健康参数分级融合诊断方法及系统",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了从单参数到系统级的快速比对分析，提升了基于证据理论的系统级综合诊断能力，能够智能辅助诊断和快速..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN113836716B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN113836716B",
+    "uuid": "b0794862-5a74-4711-82e8-ab67b21d6bcf",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "卫星阵列架构",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "提高了卫星部署效率，降低了成本，增强了地面覆盖质量，并且能够动态调整容量以应对需求变化"
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN114614885B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN114614885B",
+    "uuid": "e2ddf58e-a9b0-4da7-99cf-357862be04cb",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "单轴旋转调制微惯导的误差参数修正方法、装置及设备",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了不依赖外部信息和额外设备的高精度误差参数修正，解决了微惯导重复上电时精度问题，具有参数辨识精度..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN118603134A",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN118603134A",
+    "uuid": "0a2d149e-1601-45fd-857b-382e9d06ce5a",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "Positive electrode plate, secondary battery, battery module, battery pack and power consuming device",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "该解决方案显着提高了二次电池的高温循环性能、循环稳定性、倍率性能和安全性,同时提高了二次电池的能量密..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:US20230361284A1",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/US20230361284A1",
+    "uuid": "8d25b220-9aa4-4d34-b53a-c3560e97ba60",
+    "query": "Satellite Power Systems"
+  },
+  {
+    "title": "旋转飞行器的惯性测量组件安装误差计算方法及系统",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "提高了旋转飞行器的导航与控制精度，提供了一种准确的误差计算方法，具有工程应用价值，解决了安装误差引起..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN118836896A",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN118836896A",
+    "uuid": "0816c956-b8aa-4d91-ad02-c561b8bf87e9",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "Remote Control Methods and Systems",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "这种方法通过隔离控制和反馈数据路径,增强了数据传输的鲁棒性,减少干扰并确保无人机操作的稳定控制"
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:US20240302836A1",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/US20240302836A1",
+    "uuid": "be018d0f-95ac-405a-be7b-6f445cb9a888",
+    "query": "Satellite Orbital Tracking and Control"
+  },
+  {
+    "title": "一种星地融合网络波束成形设计方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "在不改变发射机和接收机的情况下，实现了信号传输可达速率的最大化，降低了计算复杂度和时间复杂度，能够在..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN116388836B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN116388836B",
+    "uuid": "d6dda55c-91e4-464e-b055-ec1cd045f108",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "天基通算一体化网络系统、遥感数据在轨处理方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "有效降低遥感卫星系统在轨数据处理成本，提高遥感系统的建设效率和任务时效性，满足不同数据处理需求"
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN117118495B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN117118495B",
+    "uuid": "7b7abad7-3e3d-4a9f-84f6-e9cf81751214",
+    "query": "Satellite Remote Sensing Technology"
+  },
+  {
+    "title": "一种基于密钥库的卫星遥控指令使用权限管理方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "提高了卫星遥控指令的安全性，防止恶意攻击，实现了对用户权限的有效管理，确保了用户自有地面站的隐私性和..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN117439657B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN117439657B",
+    "uuid": "bfaff1ab-8d6a-40fc-b672-79a6d2909851",
+    "query": "Satellite Remote Control and Telecommand"
+  },
+  {
+    "title": "一种基于PFMEA和HRA方法的潜在故障分析方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "通过科学合理的方法，解决了传统方法中人机分离和量化困难的问题，实现了人误概率和潜在故障发生概率的准确..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN113050595B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN113050595B",
+    "uuid": "221550c7-69af-444b-9021-2f64e95dd606",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种基于锚线动态生成的SAR距离压缩域舰船目标检测方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "显著提升了检测性能和处理效率，满足实时性需求，剔除了背景区域数据量，提高了舰船目标的态势感知时效性"
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN120385985A",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN120385985A",
+    "uuid": "c8ea8697-a9a9-4dd8-8374-0caf51371623",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种基于区块链的星群协同运控规划共识方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了遥感星群的统一协同运控，提高了信息协同能力和自主感知能力，简化了操控模式，减少了并发性，提高了..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN112180956B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN112180956B",
+    "uuid": "444494f0-bb8b-4df2-8d40-298cad7cd107",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "正极活性材料、正极极片、电池及用电装置",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "显著提高了正极活性材料的稳定性和电池的循环寿命，延长了电池的使用寿命"
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN119994013A",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN119994013A",
+    "uuid": "147cba63-4ce6-49ed-bbc0-925ef5717e65",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "基于STK判断星敏感器极性的方法、电子设备及存储介质",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了星敏感器极性判断的直观性和简便性，降低了测试成本和复杂性，操作简单且结果明确"
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN114357697B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN114357697B",
+    "uuid": "cc26379b-60f4-41d8-9364-e0c701050702",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种基于序列逻辑检验的多波段干扰点迹剔除方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "有效剔除干扰点迹，减轻后续航迹起始和点航迹关联的数据规模，干扰/杂波点剔除率提升60%，计算量适中，..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN117826099A",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN117826099A",
+    "uuid": "4bfd6a3a-a062-4751-8d73-c19c484ec40e",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "用于高效雷达预处理的方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "有效节省了存储器和功率需求，提高了处理效率，能够灵活调整处理成本以响应不同时间点的需求，提高了系统的..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN118974589A",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN118974589A",
+    "uuid": "08ce9c67-9ca9-4790-be27-e3436e4183ff",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "多模融合的旋转目标接近停靠抓捕地面试验系统及方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "有效验证了在轨操作任务中的相对测量、相对运动控制和抓捕操作方法，克服了现有技术的局限性，提供了对复杂..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN110815215B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN110815215B",
+    "uuid": "e7c14c12-11c4-4d48-8f87-fd7fa2cd43b3",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种卫星星上自主任务快速分解方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了卫星星上自主任务的快速分解，提高了计算效率和准确率，能够精准、高效地对待观测的地面目标进行分解..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN119397804B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN119397804B",
+    "uuid": "77b9a9df-a35b-4a73-a900-d6b7d123986d",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "Inertial measurement unit (IMU) with blending of outputs from an array of micro-electromechanical system (MEMS) sensors",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "与单个MEMS传感器相比,这种方法的精确输出增加了3-4倍,增强了IMU的性能,同时保持低交换特性,..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:AU2024200797A1",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/AU2024200797A1",
+    "uuid": "389d08fb-6bee-4564-87f3-8db972c93bfc",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种卫星能源仿真系统",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了对卫星电源系统的实时能量变化建模和仿真，验证了电源系统的能量平衡效果，简化了设计过程，提高了设..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN110501920B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN110501920B",
+    "uuid": "feb82b09-4f4c-4f11-b317-685ae14a0c9e",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "基于克雷洛夫角的惯性导航高精度姿态角解算方法和系统",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了姿态角的高精度解算，降低了计算量，减小了量化误差，提高了导航精度，能够在任意姿态下给出准确的姿..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN113447025B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN113447025B",
+    "uuid": "677fd3f1-87b6-4add-8842-44e1846f3d7f",
+    "query": "Satellite Navigation and Positioning Technology"
+  },
+  {
+    "title": "基于月球借力的GEO卫星应急转移轨道快速优化设计方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "有效降低了月球借力参数的优化设计难度，提供了快速的应急转移轨道设计方案，数值计算结果显示了方法的有效..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN110096726B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN110096726B",
+    "uuid": "1523d993-22c6-431e-bccb-18d1993eff44",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "硅复合材料及其制备方法、负极极片、二次电池和用电装置",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "该硅复合材料能够兼具良好的膨胀抑制性和导电性，显著提升了锂离子电池的循环性能和快充性能"
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN119581504A",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN119581504A",
+    "uuid": "a27ef885-80c1-4348-aee6-5a0a0764a26b",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "Self-powered computing buoy",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "该解决方案可大大降低能源成本和冷却要求,从而有效地扩展计算能力,同时通过利用波能量和被动冷却来最大程..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:AU2024203973A1",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/AU2024203973A1",
+    "uuid": "9c3762cd-4a30-4890-87e8-5cd6f91abb68",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "中继卫星任务调度方法及装置",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "提高了中继卫星任务调度算法的全局搜索能力和收敛速度，适合解决高复杂度任务调度问题，使得更多高优先级、..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN107678850B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN107678850B",
+    "uuid": "ac15bee7-28ea-4a44-a5ea-82b99f7399f9",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种估计单差模糊度的RTK定位方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "显著改善了载波相位单差整周模糊度的精度，降低了位置向量改正数的波动范围，从米级降到厘米级，提高了RT..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN112444837B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN112444837B",
+    "uuid": "811702c4-693f-4cef-9dc3-4e6cabfba492",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种应用时域近似熵特征的海面目标识别方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "提高了舰船目标和漂浮目标的识别准确率，平均准确率达95.05%，比现有方法提升40.63%"
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN119471609A",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN119471609A",
+    "uuid": "2ba8d475-4650-4870-bd18-ebedf9dfa486",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种比例积分型事件触发航天器姿态控制方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "提高了航天器姿态控制的精度和鲁棒性，减少了不必要的信号传递，节省了通信资源，实现了更低的通信率和更高..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN113608540B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN113608540B",
+    "uuid": "6317af4c-5c1d-46ac-b1bb-83cf7576c14e",
+    "query": "Satellite Attitude Control"
+  },
+  {
+    "title": "北斗三号辅助的卫星通信网络的接入方法、控制站及终端",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "增强了卫星通信网络的随机动态接入的安全性、可靠性和智能化水平，支持高并发入网和智能资源规划，提高了抗..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN111510194B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN111510194B",
+    "uuid": "b94f7a6a-ac96-4779-a304-6b16ca00a3dc",
+    "query": "Satellite Communication Systems"
+  },
+  {
+    "title": "一种GPS服务性能精准释放仿真与展示系统",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了对导航性能精准释放过程的精确仿真和态势展示，适用于导航战的战场态势仿真推演及可视化工作，为导航..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN118036246B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN118036246B",
+    "uuid": "cd73e95f-28f9-4c0c-b4a8-0eee5178d5d0",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种卫星充气天线",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了充气天线的分级有序展开，减少了展开控制环节，提高了系统可靠性，避免了传统充气天线的控制环节多且..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN111555012B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN111555012B",
+    "uuid": "17fa7b26-975a-4398-8c17-d2bb018f220f",
+    "query": "Satellite Antenna Technology"
+  },
+  {
+    "title": "一种多卫星博弈围捕策略",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了基于运动预测的多卫星围捕策略，提高了围捕任务的效率，适用于资源有限的卫星环境，显著减少了围捕所..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN109696084B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN109696084B",
+    "uuid": "a67aaddc-5fdb-465b-a660-7238a106456a",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种基于同源信号高隐蔽诱导式授时欺骗实时检测方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了对产生式干扰信号的有效检测，提升了干扰检测能力，降低了接收机内部运算复杂度，并大大减少了设备成..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN115561784B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN115561784B",
+    "uuid": "91be5a3b-0d7e-4f82-a2f7-53c8f97cbc67",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "卫星检测任务的处理方法、装置、电子设备及存储介质",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "提高了WAF虚拟机流量资源的分配效率，避免计算瘫痪，增强了系统的安全性和灵活性，满足了未来发展的适应..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN114528088B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN114528088B",
+    "uuid": "a2649f1e-8302-4977-be7a-4d922783e6cd",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种航天器多星敏感器布局优化设计方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "提高了设计效率，减少了对设计师经验的依赖，直接通过一次计算得到最优布局方案，提高了多星敏测量精度，适..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN108681617B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN108681617B",
+    "uuid": "899497f3-e5c3-47de-99d7-4230510a5eeb",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种基于光学敏感器的卫星姿态控制试验方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了对光学敏感器的目标移动变化的真实模拟，提高了卫星姿态控制系统的姿态精度和稳定性，增强了系统的抗..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN108614571B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN108614571B",
+    "uuid": "18eaa8e6-3c2a-4f02-9723-f26205bd1b5f",
+    "query": "Satellite Attitude Control"
+  },
+  {
+    "title": "一种力平衡半球谐振陀螺工作轴选择方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "有效提升了敏感角速度的精度，遏制了频率裂解、正交耦合误差和阻尼不均匀误差对输出精度的影响，选择了最佳..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN115979307A",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN115979307A",
+    "uuid": "5936c798-db29-42e3-959e-30c1d428ce01",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "具有随机分布的轨道卫星的通信系统和方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "[0010]在一些方面中，本文公开的系统和方法包括至少一个卫星，该至少一个卫星通过参考经由与全球导航...",
+            "在其他方面，路由协议涉及自由形式路由，其中星座中的一些或所有随机分布的卫星不知道它们的地理位置或其他...",
+            "_x000D_ _x000D_ [0011]在另一重要方面，本发明涉及可用于支持在多个随机分布的卫星..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN112585887B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN112585887B",
+    "uuid": "46f40eed-59e5-477b-9591-5d0fb6c79cec",
+    "query": "Satellite Communication Systems"
+  },
+  {
+    "title": "Laservorrichtung zur Luftfahrzeugabwehr und ein Betriebsverfahren",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "-"
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:DE112023001971T5",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/DE112023001971T5",
+    "uuid": "26fdef90-70f7-4bd5-ae31-3adf7cfc70c8",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "基于蒙特卡洛原理的两站交会测量精度表征方法及系统",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "有效解决了两站方向射线不共面时的测量难点，严格解算出交会测量误差，提高了测量精度，适用于复杂工况下的..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN120101834A",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN120101834A",
+    "uuid": "6502f7f4-c635-4078-8c4c-67ad8df8550b",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "低轨星座系统对地球静止轨道卫星系统频率干扰获取方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "给出了低轨星座系统对地球静止轨道卫星系统通信链路频率干扰的获取方法，简化了干扰信号强度计算，尤其为上..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN110212971B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN110212971B",
+    "uuid": "103f380f-a2fe-4c2f-9612-38c2d526e089",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种基于方位传递模式的弹载惯组自标定方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "提高了弹载惯组的自标定精度，增强了导弹在复杂环境中的导航精度和可靠性"
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN119618263A",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN119618263A",
+    "uuid": "8df2cc7f-9945-4d7d-9f6a-d863849f4b4d",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "航天卫星地面遥控指令自动发送的方法及系统",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了航天卫星地面遥控指令的自动发送，减少了对地面人工操作的依赖，提高了业务承载能力，解决了指令上注..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN117595919B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN117595919B",
+    "uuid": "265fdcb3-593b-4b4d-acdc-3c58d3708a84",
+    "query": "Satellite Remote Control and Telecommand"
+  },
+  {
+    "title": "一种大惯量旋转载荷卫星的刚柔磁耦合动力学建模方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "简便地体现了柔性太阳帆板振动和电磁力对旋转载荷动力学特性的影响，提供了理论支撑于控制系统设计，提高了..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN108959796B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN108959796B",
+    "uuid": "c808ae81-45ac-4bb6-989c-d823c2e7a8a1",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种卫星网络安全通信方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "有效杜绝了非法用户的接入和劫持行为，释放了信道资源，确保了通信安全并优化了前向链路的资源利用"
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN111431586B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN111431586B",
+    "uuid": "265ef55e-96f7-470c-b208-b1777fe7f85e",
+    "query": "Satellite Communication Systems"
+  },
+  {
+    "title": "一种金属基复合材料双尺度耦合有限元模拟方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了金属基复合材料在塑性加工过程中的双尺度耦合模拟，能够更准确地分析变形过程中两个尺度的流动变形情..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN114239357B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN114239357B",
+    "uuid": "5ab3b06a-4b81-4d30-b23e-ee84e02097d9",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种基于二维相控阵雷达的无人机载脱靶量矢量检测方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了对高速小目标的360°全空域精准探测和高数据刷新率，提升了对高速小目标的连续检测和跟踪能力，确..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN115877346B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN115877346B",
+    "uuid": "6e9637ec-b075-495b-8703-6706d9d435d9",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种同构卫星星座对地覆盖性能分析方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "提高了巨型同构星座对地覆盖性能的计算效率，避免了计算量随卫星数量增加而显著增加的问题，实现了快速准确..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN112751606B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN112751606B",
+    "uuid": "795c5a85-f1ba-424c-9b85-0afd561a691d",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "基于变换域的广播卫星Ku转发器微弱信号可靠通信方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "提高了卫星通信资源利用率，实现了微弱信号的可靠传输，降低了峰均比抑制的难度，提高了系统的实时性和扩频..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN117560060B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN117560060B",
+    "uuid": "9c4ea888-dbf5-4244-98a4-fe646fbc7e19",
+    "query": "Satellite Communication Systems"
+  },
+  {
+    "title": "基于控制力矩输出约束的姿态机动动态优化方法及介质",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "充分挖掘了控制力矩陀螺组合的控制能力，优化了卫星的姿态机动动态过程，提高了机动效率和精度"
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN111897352B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN111897352B",
+    "uuid": "02c37f3a-5661-4c7e-93d3-f9eca4d6e35f",
+    "query": "Satellite Attitude Control"
+  },
+  {
+    "title": "一种MEMS微推力阵列的负载均衡控制分配方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "提高了微纳卫星的在轨寿命，实现了推力分配的均衡度和精度，延长了推力器的使用寿命"
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN109917801B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN109917801B",
+    "uuid": "5e87651b-303b-4861-9b94-eebfeaa2e323",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种应用时频域波形熵特征的海面目标识别方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "提高了海面目标识别的准确率，特别是在0.25s观测时间下，舰船目标和漂浮目标的平均识别准确率达到93..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN119395654A",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN119395654A",
+    "uuid": "65a2b0cc-c7e8-42e0-b788-a8a4d326f17a",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种通过微观结构排布形式调整打印工艺参数的方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "降低了对从业者经验要求，缩短了工艺参数调整时间，提高了调整的准确性和效率，减少了不必要的实验，实现了..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN112059178B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN112059178B",
+    "uuid": "c4888494-2a11-4d7e-838e-d917ea03e129",
+    "query": "Satellite Structure and Thermal Control"
+  },
+  {
+    "title": "分布式InSAR卫星长条带测绘优化SAR任务规划方法及系统",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "有效控制SAR斜距变化速度，提升系统性能，解决了采样窗偏移和性能下降问题，同时保证了卫星测绘效率和任..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN112379377B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN112379377B",
+    "uuid": "4e9d2c4e-2bd5-4063-93bc-72c5efb84848",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种低轨卫星被动对月定标时机计算方法和系统",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "提供了一种简洁的场景建立和矢量关系明确的被动对月定标时机计算方案，提高了卫星系统的使用效能，适用于地..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN112926208B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN112926208B",
+    "uuid": "0609cb2f-7c06-4e9b-9870-904000ee4e79",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "基于ISAR图像解译的卫星目标姿态和尺寸估计方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "提高了卫星姿态和尺寸估计的精度，降低了计算复杂度，生成的分割图像细节信息更精确，估计精度更高，适用于..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN112946646B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN112946646B",
+    "uuid": "3bd872ee-1519-4098-89cc-e092f950be86",
+    "query": "Satellite Attitude Control"
+  },
+  {
+    "title": "Geocoding data for an automated vehicle",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "通过自动化流程和集成各种来源的数据,即使在充满挑战的环境中,也能促进对象数据的高效收集和地理编码,从..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:US20240345577A1",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/US20240345577A1",
+    "uuid": "2252440b-011f-49f4-861c-b93b29c54b20",
+    "query": "Satellite Orbital Tracking and Control"
+  },
+  {
+    "title": "利用音圈型直线电机进行微振动模拟的方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了对微振动的精确模拟和影响分析，降低了成本，简化了设备设计，满足了高精度、高带宽的需求，适用于卫..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN110017959B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN110017959B",
+    "uuid": "27091077-a906-4a06-9752-c5a2f334d901",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种考虑维修负面效果的维修效果建模方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了对维修效果的更完整、精准建模，提高了维修决策的科学化水平，降低了维修风险和成本，增强了系统的可..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN110909442B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN110909442B",
+    "uuid": "f1e5165d-b4d1-4810-9800-fccdeab67056",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种适应边界约束的分段正弦姿态机动轨迹规划方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了在任务规划和实时姿态控制场景中对机动速度的高效控制，确保轨迹规划参数的全过程监控，提高了机动性..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN110162073B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN110162073B",
+    "uuid": "78f412d0-0a83-4261-8e07-cc126b7db43f",
+    "query": "Satellite Attitude Control"
+  },
+  {
+    "title": "一种面向卫星互联网络的天基信息中继传输方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "优化了传输架构，增加了用户服务数量，提高了天基信息传输的时效性和卫星使用效能，实现了海量用户数据的高..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN113644957B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN113644957B",
+    "uuid": "0233e934-2bc8-4e60-b466-69ea03d39ebc",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种确定小卫星光学相机环境试验随机振动功率谱的方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "通过仿真计算获取随机振动响应功率谱，降低了光学相机质量优化设计的压力，节约设计成本，避免了相机过试验..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN112287575B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN112287575B",
+    "uuid": "21ee9e88-c10e-4168-b498-8b45fd6a7c5e",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种绕地球同步轨道卫星分布式共轨飞行的卫星群轨道设计方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "设计的绕飞卫星群轨道与参考卫星的相对距离波动小，方位角、仰角和距离关系满足多星共轨间隔设计要求，相邻..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN107450578B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN107450578B",
+    "uuid": "c8e6de0a-f53d-4303-a0b8-5ad87d48dcff",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种“三区”空域FRA的划设方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "提高了空域使用率和飞行效率，增加了飞行的灵活性，减少了飞行距离和时间"
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN111664847B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN111664847B",
+    "uuid": "af88f3a9-1e8b-42d9-8023-6684eff053e0",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种即时观测智能星座系统及其群体智能协同方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了卫星系统的数据转换及任务自主执行机制，缩短了数据应用时效性，从天级、小时级缩短至秒级实时，减少..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN118358777B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN118358777B",
+    "uuid": "9e5e1775-3842-44a9-bf5b-19c1f523e65f",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "Unmanned aircraft turn and approach system",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [
+        {
+          "Solution Components": [
+            "无人机系统包含一个摄像头吊舱,可以改变其偏航方向,使摄像头能够在飞机将其速度矢量转向目标时保持目标的...",
+            "视野,即使在急转弯时也是如此"
+          ]
+        }
+      ],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "该解决方案使无人机能够在不丢失 PID 的情况下转向目标,减少暴露时间和被发现的风险,同时允许更好的..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:US20240288865A1",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/US20240288865A1",
+    "uuid": "10c3db1a-cedd-484a-b53f-08c38b2ffccc",
+    "query": "Satellite Orbital Tracking and Control"
+  },
+  {
+    "title": "Entangling projectile system for the disabling of UAV's and other targets of interest",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "该弹丸系统提供了一致且扩大的影响区域,增加了超越现有技术限制的无人机失效的可能性,同时对于移动和静态..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:US20240077285A1",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/US20240077285A1",
+    "uuid": "c2eba4c3-1a8e-4780-bbc6-05c80bed034c",
+    "query": "Satellite Orbital Tracking and Control"
+  },
+  {
+    "title": "基于FPGA的卫星可调节通信系统",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "有效减少了处理时延和资源消耗，提高了通信系统的灵活性和效率，实现了星间及星地通信链路的高效建立和调节..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN114513245B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN114513245B",
+    "uuid": "a9e41e88-8052-4d8a-a7ab-2f02b2fec39f",
+    "query": "Satellite Communication Systems"
+  },
+  {
+    "title": "一种雷达目标识别方法及装置",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "提高了雷达目标识别的准确度和效率，尤其在复杂、多变和低可见度信号环境中表现出较强的适应性和鲁棒性，能..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN118465724A",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN118465724A",
+    "uuid": "c80d9611-493f-444a-8df5-950443cceccf",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "Robot Fleet Management Configured for Use of an Artificial Intelligence Chipset",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "该解决方案通过提供实时监控和优化来提高 3D 打印的准确性和效率,减少材料浪费和运营成本,同时通过增..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:US20230341850A1",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/US20230341850A1",
+    "uuid": "7b7e07ab-eddb-4f61-b885-08e21ac45ed1",
+    "query": "Satellite Orbital Tracking and Control"
+  },
+  {
+    "title": "一种垂直飞行器的充电装置",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "实现了对多种不同标准接口垂直飞行器的充电兼容，满足了快速、经济、环保的充电需求，能够在有限的时间内充..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN119253782A",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN119253782A",
+    "uuid": "e082fdb8-5ac7-4619-9588-c82b62e8366a",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种高精度智能遥感小卫星的实现方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "在小卫星平台上实现高精度图像定位、高分辨率成像、单线阵立体测绘成像及在轨智能处理，提高了卫星成像效率..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN114167459B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN114167459B",
+    "uuid": "e0e2f437-3a94-490b-bf38-6c038bc25222",
+    "query": "Satellite Remote Sensing Technology"
+  },
+  {
+    "title": "一种双电源弹上电气系统供电电路",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "通过低成本的手段实现舵机与其他单机供电的物理隔离，显著提升了整弹的电磁兼容能力，避免了舵机与其他单机..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN119561183A",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN119561183A",
+    "uuid": "b1e97916-3ebc-4b25-ad3d-fb34b13f02e5",
+    "query": "Satellite Power Systems"
+  },
+  {
+    "title": "太赫兹调频连续波RCS测量系统及方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "在近距离内实现对目标远场RCS数据的准确测量，提高了测量精度，减少了噪声干扰，简化了测量过程，避免了..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN117970278A",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN117970278A",
+    "uuid": "5d5cfde0-610e-49f5-86d8-f458c17007f7",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "一种基于直流系统的调压电路及电子设备",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "通过实时监测和分段控制，解决了直流系统电压过高或不稳定的问题，提高了蓄电池的使用安全性"
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN120357585A",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN120357585A",
+    "uuid": "8b0895f5-cad4-4883-9d15-7dc8c25396e5",
+    "query": "General Aerospace Technology"
+  },
+  {
+    "title": "面向混合任务的在线中继卫星系统通信资源分配方法",
+    "sections": {
+      "TECHNICAL PROBLEM": [],
+      "TECHNICAL SOLUTION": [],
+      "IMPLEMENTATION DETAILS": [],
+      "TECHNICAL EFFECTS": [
+        {
+          "Key Benefits": [
+            "提高了中继卫星系统任务规划的效率，提升了资源的实时更新能力和突发任务的捕捉能力，提高了任务完成率和资..."
+          ]
+        }
+      ],
+      "APPLICATION POTENTIAL": [],
+      "CONCLUSIONS AND OUTLOOK": []
+    },
+    "doi": "patent:CN108832993B",
+    "journal_name": "卫星及应用产业 Patent Database",
+    "url": "https://patents.search/CN108832993B",
+    "uuid": "a983bb17-3156-4aa7-995d-b76a43b47888",
+    "query": "Satellite Communication Systems"
+  }
+]

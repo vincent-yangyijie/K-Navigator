@@ -33,11 +33,15 @@ def load_embeddings(query,output_dir):
     return embeddings
 
 def get_list_of_dir_names(output_dir):
-    for f in os.listdir(output_dir):
-        if not f.startswith('.'):
-            yield f
-    # Get the list of directories in the output directory
-    return list(f)
+    try:
+        results = []
+        for f in os.listdir(output_dir):
+            if not f.startswith('.'):
+                results.append(f)
+        return results
+    except FileNotFoundError:
+        # Return empty list if directory doesn't exist
+        return []
 
 
 
