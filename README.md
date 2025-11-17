@@ -1,39 +1,125 @@
-<p align="center">
-  <img src="Navigator/assets/whale3.png" style="width: 25%; height: auto;">
-</p>
+# AeroSpaceTOC Benchmark
 
-# Knowledge Navigator: LLM-guided Browsing Framework for Exploratory Search in Scientific Literature
-<p align="center">
-<a href="https://knowledge-navigators.github.io/"><b>Website</b></a> 🐋 <a href="https://knowledge-navigator.streamlit.app/"><b>Streamlit demo</b></a> 🐋️ <a href="https://www.arxiv.org/abs/2408.15836"><b>Paper</b></a> 
-</p>
+## Overview
 
-Knowledge Navigator is a system for exploring scientific literature by organizing search results from broad queries into a structured hierarchy of topics and subtopics. This structure helps users navigate research themes, refine their focus, and discover more relevant documents. By combining LLMs with cluster-based methods, we enable an innovative browsing experience. We evaluate the system on the CLUSTREC-COVID and SCITOC benchmarks, and provide the code, prompts, and benchmarks publicly.
-## System Overview
-<p align="center">
-  <img src="Navigator/assets/system_over_view_poster.png" style="width: 100%; height: auto;">
-</p>
-Knowledge Navigator system takes a corpus of retrieved scientific documents for a given query and outputs an organized two-level thematic structure of subtopics spanning that topical query. The system's functionality is supported by the following conceptual steps: corpus construction, embedding and clustering of documents, describing and naming clusters, filtering irrelevant clusters, grouping the clusters into a thematic hierarchy, and subtopic query generation. This is implemented in a five-component architecture that largely follows the conceptual steps. This architecture enables LLMs to generate grounded outputs based on a large number of source documents, a crucial requirement for organizing and structuring large corpora.
+AeroSpaceTOC is a specialized benchmark designed to evaluate the ability of systems to handle complex aerospace and satellite technology topics by organizing patent data into hierarchical structures. The dataset consists of 50 Table of Contents (TOCs) derived from Chinese aerospace technology patents, focusing on satellite and application industry technologies.
 
-## Folders
+The goal of AeroSpaceTOC is to assess systems' capability to automatically structure and organize technical patent information into hierarchical formats, particularly focusing on aerospace engineering and satellite technology domains.
 
-- `Navigator`: This folder contains all the code necessary to run Knowledge Navigator locally.
-- `Benchmarks`: This folder includes the CLUSTREC-COVID and SCITOC benchmarks used for evaluating the system.
+## Dataset Format
 
+The AeroSpaceTOC dataset is stored as a JSON file, following the same format as the SCITOC benchmark. Each entry corresponds to the TOC of an aerospace patent, represented as a dictionary with the following structure:
 
-## Citation
-Please cite our paper if you use this code in your own work:
-```bibtex
-@inproceedings{katz-etal-2024-knowledge,
-    title = "Knowledge Navigator: {LLM}-guided Browsing Framework for Exploratory Search in Scientific Literature",
-    author = "Katz, Uri  and
-      Levy, Mosh  and
-      Goldberg, Yoav",
-    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2024",
-    month = nov,
-    year = "2024",
-    address = "Miami, Florida, USA",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2024.findings-emnlp.516",
-    pages = "8838--8855",
+```json
+{
+  "title": "一种多卫星无碰撞释放的堆叠方式及释放方法",
+  "sections": {
+    "TECHNICAL PROBLEM": [],
+    "TECHNICAL SOLUTION": [],
+    "IMPLEMENTATION DETAILS": [],
+    "TECHNICAL EFFECTS": [
+      {
+        "Key Benefits": [
+          "减少或消除分配器质量，确保发射期间的结构刚度和强度..."
+        ]
+      }
+    ],
+    "APPLICATION POTENTIAL": [],
+    "CONCLUSIONS AND OUTLOOK": []
+  },
+  "doi": "patent:CN114692307B",
+  "journal_name": "卫星及应用产业 Patent Database",
+  "url": "https://patents.search/CN114692307B",
+  "uuid": "8ca8ce3f-9534-4878-b8c8-f6d50eb061d6",
+  "query": "General Aerospace Technology"
 }
 ```
+
+## Field Descriptions
+
+- **title**: The patent title in Chinese
+- **sections**: A dictionary representing the hierarchical structure of the patent's technical content. Each section typically contains:
+  - `TECHNICAL PROBLEM`: Describes the problem being solved
+  - `TECHNICAL SOLUTION`: Details the solution approach
+  - `IMPLEMENTATION DETAILS`: Specific implementation methods
+  - `TECHNICAL EFFECTS`: Benefits and advantages achieved
+  - `APPLICATION POTENTIAL`: Potential applications
+  - `CONCLUSIONS AND OUTLOOK`: Summary and future prospects
+- **doi**: Patent identifier in the format "patent:PATENT_NUMBER"
+- **journal_name**: Source database ("卫星及应用产业 Patent Database")
+- **url**: Link to the patent record
+- **uuid**: A unique identifier for the entry
+- **query**: Technology category for thematic grouping (e.g., "Satellite Navigation and Positioning Technology", "Satellite Communication Systems", etc.)
+
+## Technology Categories
+
+Patents are automatically categorized into the following aerospace technology areas:
+
+- Satellite Navigation and Positioning Technology
+- Satellite Remote Control and Telecommand
+- Satellite Orbital Tracking and Control
+- Satellite Antenna Technology
+- Satellite Communication Systems
+- Satellite Remote Sensing Technology
+- Satellite Attitude Control
+- Satellite Propulsion Systems
+- Satellite Power Systems
+- Satellite Structure and Thermal Control
+- General Aerospace Technology
+
+## Dataset Characteristics
+
+- **Total Entries**: 150 patents
+- **Source Patents**: ~3000 aerospace patents from 3 datasets
+- **Languages**: Chinese (simplified), Korean, English
+- **Domain**: Aerospace engineering and satellite technology
+- **Industry Focus**: Satellite and application industry
+- **Structure Type**: Patent-derived technical content
+- **Hierarchical Organization**: Multi-level technical topic organization
+
+## Generation Approach
+
+The AeroSpaceTOC benchmark was generated by:
+
+1. **Data Source**: Extracted from 3000 total aerospace patents across 3 datasets (sets1000.XLSX, sets2000.XLSX, sets3000.XLSX)
+2. **Sampling**: Randomly selected 150 patents for benchmark creation (distributed across datasets)
+3. **Content Extraction**: Automatically parsed patent fields including technical problems, solutions, implementation details, and benefits
+4. **Structure Creation**: Mapped patent content to hierarchical TOC sections (TECHNICAL PROBLEM, TECHNICAL SOLUTION, IMPLEMENTATION DETAILS, TECHNICAL EFFECTS, etc.)
+5. **Categorization**: Classified patents into 11 aerospace technology categories
+6. **Format Standardization**: Converted to SCITOC-compatible JSON format with UUIDs, DOIs, and proper metadata
+
+## Evaluation Tasks
+
+The AeroSpaceTOC benchmark can be used to evaluate systems on:
+
+- **Patent Content Organization**: Structuring technical patent information hierarchically
+- **Technology Categorization**: Correctly classifying aerospace patents by domain
+- **Multi-level TOC Generation**: Creating comprehensive technical outlines
+- **Cross-language Understanding**: Processing Chinese technical content
+- **Domain-specific Reasoning**: Understanding aerospace engineering concepts
+
+## Differences from SCITOC
+
+While SCITOC focuses on academic review papers, AeroSpaceTOC emphasizes:
+
+- **Patent vs. Review Content**: Technical inventions rather than literature reviews
+- **Engineering Focus**: Emphasis on technical problems, solutions, and implementations
+- **Practical Applications**: Concrete technical solutions and benefits
+- **Industry-driven**: Real-world patent applications and inventions
+- **Chinese Language**: Native Chinese technical content
+
+## License
+
+This dataset is derived from publicly accessible patent data and inherits the usage rights of the original patent documents. Users should comply with patent office regulations and respect intellectual property rights when using this dataset for research or evaluation purposes.
+
+## Citation Information
+
+When using the AeroSpaceTOC benchmark in research, please cite both this benchmark and the original Knowledge Navigator paper:
+
+```
+@article{katz2024knowledge,
+  title={Knowledge Navigator: LLM-guided Browsing Framework for Exploratory Search in Scientific Literature},
+  author={Katz, Uri and Levy, Mosh and Goldberg, Yoav},
+  journal={arXiv preprint arXiv:2408.15836},
+  year={2024}
+}
